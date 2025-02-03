@@ -26,4 +26,4 @@ This repository is designed to:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<YourUsername>/SWIFT.git
+   git clone https://github.com/yashsharmapvt79/SWIFT.git
